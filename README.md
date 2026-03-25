@@ -36,12 +36,12 @@
   alt="github statcs" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=DaviViana1510&show_icons=true&theme=tokyonight&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=gabrielmaganha-dev&show_icons=true&theme=tokyonight&include_all_commits=true"
  />
 
 <img
   align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviViana1510&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaganha-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
  />
