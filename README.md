@@ -1,6 +1,6 @@
 # Hi Im Gabriel Maganha
 
-#**🚀  Developer java |mySql|POO
+#**🚀  Developer java |mySql |POO | APIs Rest | AWS infraestruture
 🇧🇷 Brazil**
 
 #*I am a student of systems analysis and development, and I am constantly seeking to learn and develop myself professionally*.
